@@ -1,0 +1,3 @@
+C:/Users/misan/CLionProjects/File input and output/cmake-build-debug/CMakeFiles/File_input_and_output.dir
+C:/Users/misan/CLionProjects/File input and output/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/misan/CLionProjects/File input and output/cmake-build-debug/CMakeFiles/rebuild_cache.dir
